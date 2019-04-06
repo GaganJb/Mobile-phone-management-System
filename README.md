@@ -22,4 +22,4 @@ Add Screen :
 
 Display Screen :
 
-<img src="https://github.com/GaganJb/Mobile-phone-management-System/blob/master/5%20(2).png?raw=true" style="max-width:100%;">
+<img src="https://github.com/GaganJb/Mobile-phone-management-System/blob/master/6%20(2).png?raw=true" style="max-width:100%;">
